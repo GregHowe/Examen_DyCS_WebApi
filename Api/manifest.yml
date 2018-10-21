@@ -1,0 +1,6 @@
+---
+applications:
+- name: dycsw-parcial-patterns
+  memory: 256M
+  instances: 1
+  random-route: true
